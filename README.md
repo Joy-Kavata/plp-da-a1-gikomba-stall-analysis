@@ -7,7 +7,7 @@ For the past two weeks, Wanjiku has been keeping a rough stock record by writing
 
 ## How to Run
 Here is the live link to Google Colab.
-[![Open In Colab](https://colab.research.google.com/drive/1PG7NuzQcrPKf1_u4VGmvWjbnlDXD1z2D?usp=sharing)]
+[Open In Colab](https://colab.research.google.com/drive/1PG7NuzQcrPKf1_u4VGmvWjbnlDXD1z2D?usp=sharing)
 
 ## Top Three Findings
 1. Total sales grew by 10.66% from Week 1 (KES 22,050) to Week 2 (KES 24,400), indicating positive business momentum.
